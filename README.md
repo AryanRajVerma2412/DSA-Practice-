@@ -10,6 +10,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 ## Stack
 |  |
 | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Queue
 |  |
@@ -19,4 +20,8 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## String
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
