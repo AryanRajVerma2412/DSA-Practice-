@@ -41,5 +41,10 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0338-counting-bits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
