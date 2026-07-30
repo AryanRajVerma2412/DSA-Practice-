@@ -6,6 +6,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0053-maximum-subarray) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Stack
 |  |
@@ -37,6 +38,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0053-maximum-subarray) |
 | [0338-counting-bits](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0338-counting-bits) |
 ## Bit Manipulation
 |  |
@@ -46,5 +48,6 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
