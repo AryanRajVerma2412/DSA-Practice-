@@ -7,6 +7,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0918-maximum-sum-circular-subarray) |
@@ -40,6 +41,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0015-3sum) |
 | [0726-number-of-atoms](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0726-number-of-atoms) |
 ## Dynamic Programming
 |  |
@@ -67,6 +69,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0392-is-subsequence) |
