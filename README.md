@@ -8,6 +8,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | ------- |
 | [0011-container-with-most-water](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -73,6 +74,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | ------- |
 | [0011-container-with-most-water](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0125-valid-palindrome) |
