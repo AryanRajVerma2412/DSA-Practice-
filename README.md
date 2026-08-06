@@ -31,6 +31,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0392-is-subsequence) |
 | [0726-number-of-atoms](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0726-number-of-atoms) |
