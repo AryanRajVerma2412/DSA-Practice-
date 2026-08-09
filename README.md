@@ -10,6 +10,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0015-3sum](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0027-remove-element) |
+| [0045-jump-game-ii](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -57,6 +58,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -100,6 +102,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## String Matching
