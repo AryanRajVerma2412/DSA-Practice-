@@ -50,6 +50,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0392-is-subsequence) |
 | [0726-number-of-atoms](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0726-number-of-atoms) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -105,6 +106,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0392-is-subsequence) |
