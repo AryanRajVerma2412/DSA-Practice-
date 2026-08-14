@@ -45,6 +45,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -58,6 +59,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0380-insert-delete-getrandom-o1) |
@@ -151,6 +153,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0380-insert-delete-getrandom-o1) |
