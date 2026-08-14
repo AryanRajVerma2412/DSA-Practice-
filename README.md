@@ -54,6 +54,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0392-is-subsequence](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0392-is-subsequence) |
 | [0726-number-of-atoms](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0726-number-of-atoms) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0169-majority-element](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0726-number-of-atoms](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0726-number-of-atoms) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
 |  |
 | ------- |
@@ -172,4 +174,8 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0014-longest-common-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
