@@ -21,6 +21,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0380-insert-delete-getrandom-o1) |
@@ -118,6 +119,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0209-minimum-size-subarray-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -172,6 +174,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0238-product-of-array-except-self) |
 ## Trie
 |  |
@@ -180,5 +183,6 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0209-minimum-size-subarray-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
