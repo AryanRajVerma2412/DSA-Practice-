@@ -45,6 +45,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0013-roman-to-integer) |
@@ -60,6 +61,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0169-majority-element) |
@@ -183,6 +185,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0209-minimum-size-subarray-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
