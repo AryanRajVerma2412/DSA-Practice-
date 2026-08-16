@@ -25,6 +25,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0238-product-of-array-except-self](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0380-insert-delete-getrandom-o1) |
+| [0643-maximum-average-subarray-i](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0643-maximum-average-subarray-i) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0918-maximum-sum-circular-subarray) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -192,5 +193,6 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0003-longest-substring-without-repeating-characters](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0643-maximum-average-subarray-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
