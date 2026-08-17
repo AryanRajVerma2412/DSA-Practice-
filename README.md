@@ -27,6 +27,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0380-insert-delete-getrandom-o1](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0643-maximum-average-subarray-i](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0643-maximum-average-subarray-i) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0918-maximum-sum-circular-subarray) |
+| [1004-max-consecutive-ones-iii](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/1004-max-consecutive-ones-iii) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Stack
@@ -127,6 +128,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/1004-max-consecutive-ones-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -183,6 +185,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/1004-max-consecutive-ones-iii) |
 ## Trie
 |  |
 | ------- |
@@ -194,5 +197,6 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0030-substring-with-concatenation-of-all-words](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/1004-max-consecutive-ones-iii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
