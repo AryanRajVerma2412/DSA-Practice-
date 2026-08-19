@@ -26,6 +26,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0274-h-index](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0643-maximum-average-subarray-i](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0918-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/1004-max-consecutive-ones-iii) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -72,6 +73,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0169-majority-element](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0726-number-of-atoms](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0726-number-of-atoms) |
+| [0904-fruit-into-baskets](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0904-fruit-into-baskets) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
 |  |
@@ -197,6 +199,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0030-substring-with-concatenation-of-all-words](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/1004-max-consecutive-ones-iii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
