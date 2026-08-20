@@ -60,6 +60,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0058-length-of-last-word](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0151-reverse-words-in-a-string) |
+| [0383-ransom-note](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0392-is-subsequence) |
 | [0726-number-of-atoms](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0726-number-of-atoms) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -73,6 +74,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0030-substring-with-concatenation-of-all-words](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0169-majority-element](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0383-ransom-note) |
 | [0726-number-of-atoms](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0726-number-of-atoms) |
 | [0904-fruit-into-baskets](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0904-fruit-into-baskets) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -161,6 +163,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0383-ransom-note) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
