@@ -211,4 +211,8 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0904-fruit-into-baskets](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/1004-max-consecutive-ones-iii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
