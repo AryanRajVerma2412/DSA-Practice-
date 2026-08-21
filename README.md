@@ -215,6 +215,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0584-find-customer-referee) |
+| [1068-product-sales-analysis-i](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/1683-invalid-tweets) |
