@@ -74,6 +74,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0013-roman-to-integer](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0169-majority-element](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0202-happy-number) |
 | [0290-word-pattern](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0383-ransom-note) |
@@ -129,6 +130,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0151-reverse-words-in-a-string](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
@@ -176,6 +178,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0012-integer-to-roman](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0380-insert-delete-getrandom-o1) |
 ## Counting Sort
 |  |
@@ -222,4 +225,8 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/1757-recyclable-and-low-fat-products) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
