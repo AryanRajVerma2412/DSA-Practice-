@@ -26,6 +26,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0219-contains-duplicate-ii](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0274-h-index) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0643-maximum-average-subarray-i](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0713-subarray-product-less-than-k) |
@@ -80,6 +81,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0202-happy-number](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0290-word-pattern) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0383-ransom-note) |
 | [0726-number-of-atoms](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0726-number-of-atoms) |
@@ -92,6 +94,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0088-merge-sorted-array](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0274-h-index) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0726-number-of-atoms) |
 ## Dynamic Programming
 |  |
@@ -135,12 +138,14 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0202-happy-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0209-minimum-size-subarray-sum) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/1004-max-consecutive-ones-iii) |
 ## Greedy
