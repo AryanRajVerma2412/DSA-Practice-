@@ -232,6 +232,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0197-rising-temperature) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0584-find-customer-referee) |
 | [1068-product-sales-analysis-i](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/1068-product-sales-analysis-i) |
