@@ -29,6 +29,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0350-intersection-of-two-arrays-ii](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0455-assign-cookies](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0904-fruit-into-baskets) |
