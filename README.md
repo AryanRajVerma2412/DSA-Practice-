@@ -239,6 +239,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0620-not-boring-movies](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/1148-article-views-i) |
+| [1251-average-selling-price](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
