@@ -36,6 +36,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0918-maximum-sum-circular-subarray](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0918-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/1004-max-consecutive-ones-iii) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2540-minimum-common-value](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/2540-minimum-common-value) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Stack
 |  |
@@ -88,6 +89,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0383-ransom-note](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0383-ransom-note) |
 | [0726-number-of-atoms](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0726-number-of-atoms) |
 | [0904-fruit-into-baskets](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0904-fruit-into-baskets) |
+| [2540-minimum-common-value](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/2540-minimum-common-value) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
 |  |
@@ -144,6 +146,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0350-intersection-of-two-arrays-ii](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0455-assign-cookies) |
+| [2540-minimum-common-value](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
 | ------- |
@@ -155,6 +158,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0367-valid-perfect-square](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0367-valid-perfect-square) |
 | [0713-subarray-product-less-than-k](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/1004-max-consecutive-ones-iii) |
+| [2540-minimum-common-value](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/2540-minimum-common-value) |
 ## Greedy
 |  |
 | ------- |
