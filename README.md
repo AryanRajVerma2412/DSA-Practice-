@@ -147,6 +147,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -191,6 +192,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | ------- |
 | [0012-integer-to-roman](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0380-insert-delete-getrandom-o1) |
@@ -256,4 +258,8 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0455-assign-cookies) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
