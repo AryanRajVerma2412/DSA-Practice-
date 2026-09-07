@@ -150,6 +150,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0069-sqrtx](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/1004-max-consecutive-ones-iii) |
@@ -262,4 +263,8 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0069-sqrtx) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
