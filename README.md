@@ -33,6 +33,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0485-max-consecutive-ones](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0713-subarray-product-less-than-k) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0904-fruit-into-baskets](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0918-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/1004-max-consecutive-ones-iii) |
@@ -161,6 +162,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0350-intersection-of-two-arrays-ii](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0367-valid-perfect-square) |
 | [0713-subarray-product-less-than-k](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0713-subarray-product-less-than-k) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/1004-max-consecutive-ones-iii) |
 | [2540-minimum-common-value](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/2540-minimum-common-value) |
 ## Greedy
