@@ -34,6 +34,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0643-maximum-average-subarray-i](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0860-lemonade-change](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0918-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/1004-max-consecutive-ones-iii) |
@@ -174,6 +175,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0860-lemonade-change) |
 ## String Matching
 |  |
 | ------- |
