@@ -26,6 +26,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0219-contains-duplicate-ii](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0274-h-index) |
+| [0287-find-the-duplicate-number](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0455-assign-cookies](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0455-assign-cookies) |
@@ -115,6 +116,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0191-number-of-1-bits) |
+| [0287-find-the-duplicate-number](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0338-counting-bits) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Divide and Conquer
@@ -143,6 +145,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0455-assign-cookies) |
@@ -154,6 +157,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0367-valid-perfect-square) |
 | [0713-subarray-product-less-than-k](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0713-subarray-product-less-than-k) |
@@ -261,6 +265,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0287-find-the-duplicate-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -273,4 +278,8 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0278-first-bad-version) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
