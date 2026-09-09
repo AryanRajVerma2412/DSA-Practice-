@@ -12,6 +12,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0015-3sum](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0055-jump-game) |
@@ -44,6 +45,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0042-trapping-rain-water) |
 | [0726-number-of-atoms](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0726-number-of-atoms) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -107,6 +109,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0055-jump-game) |
@@ -141,6 +144,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0125-valid-palindrome) |
@@ -296,4 +300,8 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0509-fibonacci-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
