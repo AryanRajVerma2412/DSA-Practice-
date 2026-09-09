@@ -113,6 +113,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0918-maximum-sum-circular-subarray) |
 ## Bit Manipulation
 |  |
@@ -211,6 +212,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0202-happy-number](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0380-insert-delete-getrandom-o1) |
+| [0509-fibonacci-number](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0509-fibonacci-number) |
 ## Counting Sort
 |  |
 | ------- |
@@ -286,4 +288,12 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0287-find-the-duplicate-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
