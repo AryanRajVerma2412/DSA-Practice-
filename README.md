@@ -47,6 +47,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | ------- |
 | [0020-valid-parentheses](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0071-simplify-path) |
 | [0726-number-of-atoms](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0726-number-of-atoms) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -71,6 +72,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0290-word-pattern) |
