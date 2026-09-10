@@ -45,6 +45,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0042-trapping-rain-water) |
 | [0726-number-of-atoms](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0726-number-of-atoms) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -66,6 +67,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0012-integer-to-roman](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0058-length-of-last-word) |
@@ -305,4 +307,8 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0042-trapping-rain-water) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
