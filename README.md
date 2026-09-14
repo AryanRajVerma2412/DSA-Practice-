@@ -20,6 +20,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0088-merge-sorted-array](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0134-gas-station) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0189-rotate-array) |
@@ -48,6 +49,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0020-valid-parentheses](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0071-simplify-path) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0155-min-stack) |
 | [0726-number-of-atoms](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0726-number-of-atoms) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -217,6 +219,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0012-integer-to-roman](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0367-valid-perfect-square) |
