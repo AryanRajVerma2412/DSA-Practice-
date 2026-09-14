@@ -51,6 +51,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0071-simplify-path](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0224-basic-calculator) |
 | [0726-number-of-atoms](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0726-number-of-atoms) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -78,6 +79,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0071-simplify-path](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0151-reverse-words-in-a-string) |
+| [0224-basic-calculator](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0224-basic-calculator) |
 | [0290-word-pattern](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0392-is-subsequence) |
@@ -222,6 +224,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0150-evaluate-reverse-polish-notation](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0224-basic-calculator) |
 | [0367-valid-perfect-square](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0509-fibonacci-number) |
@@ -305,6 +308,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 ## Recursion
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0224-basic-calculator) |
 | [0509-fibonacci-number](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
