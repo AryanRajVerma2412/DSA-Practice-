@@ -131,6 +131,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0338-counting-bits) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -225,6 +226,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0189-rotate-array](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0509-fibonacci-number) |
@@ -311,6 +313,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0021-merge-two-sorted-lists](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0203-remove-linked-list-elements) |
 | [0224-basic-calculator](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
