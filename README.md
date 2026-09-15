@@ -64,6 +64,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## String
 |  |
 | ------- |
@@ -134,6 +135,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0231-power-of-two](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0338-counting-bits) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Divide and Conquer
 |  |
@@ -231,6 +233,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0367-valid-perfect-square](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0509-fibonacci-number) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Counting Sort
 |  |
 | ------- |
@@ -317,6 +320,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0231-power-of-two](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0509-fibonacci-number) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
 | ------- |
