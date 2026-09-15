@@ -309,6 +309,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0203-remove-linked-list-elements) |
 | [0224-basic-calculator](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0224-basic-calculator) |
 | [0509-fibonacci-number](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -327,4 +328,5 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
