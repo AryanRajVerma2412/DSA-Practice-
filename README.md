@@ -315,6 +315,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0203-remove-linked-list-elements) |
 | [0224-basic-calculator](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0231-power-of-two) |
@@ -337,5 +338,6 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
