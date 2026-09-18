@@ -49,6 +49,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0020-valid-parentheses](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0071-simplify-path) |
+| [0143-reorder-list](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0224-basic-calculator) |
@@ -161,6 +162,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0189-rotate-array) |
@@ -318,6 +320,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0203-remove-linked-list-elements) |
 | [0224-basic-calculator](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0231-power-of-two) |
@@ -341,5 +344,6 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
