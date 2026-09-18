@@ -56,6 +56,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0726-number-of-atoms](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0726-number-of-atoms) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2487-remove-nodes-from-linked-list](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/2487-remove-nodes-from-linked-list) |
 ## Queue
 |  |
 | ------- |
@@ -326,6 +327,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0231-power-of-two](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0509-fibonacci-number) |
+| [2487-remove-nodes-from-linked-list](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/2487-remove-nodes-from-linked-list) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
@@ -335,6 +337,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0042-trapping-rain-water) |
+| [2487-remove-nodes-from-linked-list](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -346,4 +349,5 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0024-swap-nodes-in-pairs](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0203-remove-linked-list-elements) |
+| [2487-remove-nodes-from-linked-list](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
