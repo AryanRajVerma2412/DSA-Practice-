@@ -34,6 +34,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0287-find-the-duplicate-number](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0380-insert-delete-getrandom-o1) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0643-maximum-average-subarray-i) |
@@ -121,6 +122,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0169-majority-element](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0455-assign-cookies) |
 | [0726-number-of-atoms](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0726-number-of-atoms) |
 ## Dynamic Programming
@@ -200,6 +202,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0055-jump-game](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0134-gas-station) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0860-lemonade-change) |
 ## String Matching
