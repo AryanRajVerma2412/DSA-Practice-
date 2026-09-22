@@ -16,6 +16,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0045-jump-game-ii](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0057-insert-interval) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0088-merge-sorted-array) |
@@ -115,6 +116,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0274-h-index) |
@@ -305,6 +307,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0455-assign-cookies) |
 ## Newton's Method
 |  |
