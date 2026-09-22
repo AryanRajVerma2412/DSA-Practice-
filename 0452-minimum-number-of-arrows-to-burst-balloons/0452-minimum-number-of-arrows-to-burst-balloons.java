@@ -4,12 +4,16 @@ class Solution {
 
         int arrow = 1;
         int arrowPositions = points[0][1];
-        for(int i=1; i<points.length; i++){
-            if(points[i][0] > arrowPositions){
+
+        for (int i = 1; i < points.length; i++) {
+
+            if (points[i][0] > arrowPositions) {
                 arrow++;
                 arrowPositions = points[i][1];
             }
+
         }
+
         return arrow;
     }
 }
