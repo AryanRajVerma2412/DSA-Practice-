@@ -16,6 +16,7 @@ My Data Structures &amp; Algorithms solutions in Java with LeetCode practice.
 | [0045-jump-game-ii](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0057-insert-interval) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AryanRajVerma2412/DSA-Practice-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
